@@ -3,6 +3,7 @@ import "./App.css";
 export default function App() {
   return (
     <div className="App">
+      <div className="container">
       <h1>My weather app</h1>
       <footer>
         This project is codded by <a
@@ -16,7 +17,8 @@ export default function App() {
           href="https://splendorous-platypus-539b6e.netlify.app/"
           target="_blank"rel='noreferrer'> Netifly.
           </a>
-      </footer>
+        </footer>
+        </div>
     </div>
   );
 }
