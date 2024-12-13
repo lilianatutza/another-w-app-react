@@ -39,6 +39,7 @@
   font-size: 64px;
   line-height: 64px;
   font-weight: 400;
+  outline: 5px solid red;
 }
 
 .Weather .unit{
