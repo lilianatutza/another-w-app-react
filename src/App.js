@@ -8,7 +8,7 @@ export default function App() {
       <div className="container">
         <Weather defaultCity="London"/>
       <footer>
-        This project is codded by <a
+        This project was codded by <a
           href="https://github.com/dashboard"
           target="_blank"rel='noreferrer'>
           Liliana Tuta</a>,{" "}is open sourced on <a
