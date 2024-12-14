@@ -7,7 +7,8 @@ export default function App() {
     <div className="App">
       <div className="container">
         <Weather defaultCity="London"/>
-      <footer>
+        <footer>
+        <p>*for mobile phone view, use rotate.</p>
         This project was codded by <a
           href="https://github.com/dashboard"
           target="_blank"rel='noreferrer'>
@@ -19,6 +20,7 @@ export default function App() {
           href="https://splendorous-platypus-539b6e.netlify.app/"
           target="_blank"rel='noreferrer'> Netifly.
           </a>
+          
         </footer>
         </div>
     </div>
