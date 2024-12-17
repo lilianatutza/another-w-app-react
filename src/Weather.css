@@ -5,6 +5,7 @@
   padding: 16px;
   margin: 30px auto;
   color: rgb(135, 135, 135);
+
 }
 
 .Weather h1 {
@@ -51,6 +52,3 @@
   margin-left: 0px;
 }
 
-.Weather .a {
-  outline: 2px solid red 
-}
